@@ -1,0 +1,41 @@
+double
+argument - double d=Double.parseDouble(args[0])
+if (d == 0)
+if ((d >= 0.0001) && (d <= 0.0001))
+
+print double - System.out.print(" %f")
+
+System.out.printf(" %2d"){  -  zarovnání na dvì místa doprava
+
+System.out.printf(" %5.2f"){  -  na pìt míst z toho 2 desetinný
+
+boolean = true/false
+
+boolean = i > 5
+
+boolean JeSude = (i % 2) == 0
+
+-----WHILE-----
+
+int pocet = Integer.parseInt (args[0])	
+while (pocet > 5) {
+	System.out.printf("=5d\n", pocet);
+
+
+
+public class Scanner {
+	public class void main(String[] args) {
+		int suma = 0;
+		java.util.Scanner vstup = new java.util.Scanner(System.in) ;
+		while (Vstup.hasNextInt())	{
+			suma += vstup.nextInt() ;
+		}
+		System.out.printf("Suma je %d.\n", suma)
+	}
+}
+
+
+
+long - 64 bitù
+int - 32 bitù
+http://git-scm.com/book/cs/v1
