@@ -5,9 +5,9 @@ if ((d >= 0.0001) && (d <= 0.0001))
 
 print double - System.out.print(" %f")
 
-System.out.printf(" %2d"){  -  zarovnání na dvì místa doprava
+System.out.printf(" %2d"){  -  zarovnÃ¡nÃ­ na dvÃ¬ mÃ­sta doprava
 
-System.out.printf(" %5.2f"){  -  na pìt míst z toho 2 desetinný
+System.out.printf(" %5.2f"){  -  na pÃ¬t mÃ­st z toho 2 desetinnÃ½
 
 boolean = true/false
 
@@ -36,6 +36,8 @@ public class Scanner {
 
 
 
-long - 64 bitù
-int - 32 bitù
+long - 64 bitÃ¹
+int - 32 bitÃ¹
 http://git-scm.com/book/cs/v1
+
+https://docs.oracle.com/javase/tutorial/java/javaOO/classdecl.html
